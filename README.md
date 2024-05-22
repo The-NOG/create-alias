@@ -3,6 +3,6 @@
 
 ## usage
  Execute powershell script with -file switch pointing to your csv. template provided. There is no flexibility in it so don't deviate
- ```
+ ```bat
  .\Create-Alias -file example.csv
- '''
+ ```
